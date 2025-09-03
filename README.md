@@ -1,0 +1,1 @@
+# All-soccerwiki-dataset
